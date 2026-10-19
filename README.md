@@ -10,4 +10,4 @@ Analysis of campaign acceptance, customer spending, purchasing activity, and eng
 
 ## Full Case Study
 
-[View the full case study on ](https://app.notion.com/p/Blessed-Chishorwa-Data-Analyst-Harare-ZW-3e5d7f269d0f80478c7cd6c3065b582e?)
+[View the full case on](https://app.notion.com/p/Blessed-Chishorwa-Data-Analyst-Harare-ZW-3e5d7f269d0f80478c7cd6c3065b582e?)
