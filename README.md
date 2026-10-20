@@ -1,11 +1,6 @@
 # marketing-campaign-customer-engagement
 
 Analysis of campaign acceptance, customer spending, purchasing activity, and engagement using SQL, R, and Power BI.
-I want that lunk either the data called marketing_campaign.csv
-
-Here is the Kaggle link with **`marketing_campaign.csv`** selected:[1]
-
-[https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?select=marketing_campaign.csv](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?select=marketing_campaign.csv)
 
 ## Data Source
 
